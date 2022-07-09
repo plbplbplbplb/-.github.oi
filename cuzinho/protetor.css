@@ -1,0 +1,13 @@
+/* -----------------------Elementos do HTML 5---------------------- */
+
+body {width: 390px; height: 320px; background-color: 	#4B0082;border-radius: 5px; text-align: center;}
+header{width: 95%; height: 190px; background-color: #E0B5FF;float: left; margin-left: ;border-radius: 5px;}
+article{width: 95%; height: 280px; background-color: #E0B5FF;float: left; margin-top:5px ;border-radius: 5px;}
+footer{width: 95%; height: 80px; background-color: #E0B5FF;float: left; margin-left: ; margin-top: 5px;border-radius: 5px;}
+
+/* -----------------------Elementos HTML---------------------------- */
+
+
+/* ---------------------Identificações e Classes----------------------*/
+#titulo {padding-top: 40px;}
+#aviso {padding-top: 60px;}
