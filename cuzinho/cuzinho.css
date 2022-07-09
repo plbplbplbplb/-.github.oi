@@ -1,15 +1,24 @@
 /* -----------------------Elementos do HTML 5---------------------- */
 
-body {width: 390px; height: 1000px; background-color: 	#4B0082;}
-header{width: 95%; height: 40px; background-color: #E0B5FF;float: left; margin-left: ;}
+body {width: 390px; height: 1000px; background-color: 	#4B0082;border-radius: 5px;}
+header{width: 95%; height: 40px; background-color: #E0B5FF;float: left; margin-left: ;border-radius: 5px;}
+footer{width: 95%; height: 80px; background-color: #E0B5FF;float: left; margin-left: ; margin-top: 5px;border-radius: 5px;}
 
 
 /* -----------------------Elementos HTML---------------------------- */
 
 h1{font-family: 'Bernard MT condensed'; font-size: medium; text-align: right; padding-right: 5px;}
+h2{display: inline-block; color: black}
 img{width: 100%; height: 200px;}
 
 
 /* ---------------------Identificações e Classes----------------------*/
 
 #figura {width: 40%; height: 200px; background-color:#E0B5FF; float: left; margin-top: 5px;}
+#texto1 {width: 53.72%; height: 200px; background-color:#E0B5FF; float: left; margin-top: 5px;
+margin-left: 5px;}
+#caixa1 {width: 90%; height: 100px; background-color: white; margin-left: 5%;border-radius: 5px;}
+#caixa2 {width: 90%; height: 50px; background-color: white; margin-left: 5%;border-radius: 5px; margin-top: 5px;}
+
+#eu{font-family: 'Bernard MT condensed'; font-size:large; text-align: center; padding-top: 35px;}
+#boa{font-family: 'Bernard MT condensed'; font-size:medium; text-align: center; padding-top: 14px;}
