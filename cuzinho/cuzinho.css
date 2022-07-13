@@ -11,7 +11,8 @@ h1{font-family: 'Bernard MT condensed'; font-size: medium; text-align: right; pa
 h2{display: inline-block; color: black;}
 h3{font-family: 'Bernard MT condensed'; font-size: large; text-align: center; display: inline-block; padding-top: 10px; color: black;}
 img{width: 100%; height: 200px;}
-li {font-family: 'Bernard MT condensed'; color: black;}
+li {font-family: 'Bernard MT condensed'; color: black; font-size: smaller; }
+ol {margin-bottom : 3px;}
 
 
 
